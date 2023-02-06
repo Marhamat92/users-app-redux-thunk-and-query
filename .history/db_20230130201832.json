@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe"
+    },
+    {
+      "name": "John Bartell",
+      "id": 2
+    }
+  
+  ],
+  "albums": [],
+  "photos": []
+}

@@ -1,0 +1,126 @@
+{
+  "users": [
+    {
+      "name": "Adam Wilderman",
+      "id": 3
+    },
+    {
+      "name": "Dr. Jerome Swaniawski",
+      "id": 6
+    }
+  ],
+  "albums": [
+    {
+      "userId": 6,
+      "title": "Oriental Concrete Soap",
+      "id": 35
+    },
+    {
+      "userId": 3,
+      "title": "Unbranded Fresh Car",
+      "id": 36
+    },
+    {
+      "userId": 6,
+      "title": "Refined Cotton Soap",
+      "id": 41
+    },
+    {
+      "userId": 3,
+      "title": "Refined Soft Towels",
+      "id": 42
+    },
+    {
+      "userId": 3,
+      "title": "Bespoke Bronze Tuna",
+      "id": 43
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 36,
+      "imageUrl": "https://loremflickr.com/150/150/abstract?lock=87263",
+      "id": 2
+    },
+    {
+      "albumId": 36,
+      "imageUrl": "https://loremflickr.com/150/150/abstract?lock=40931",
+      "id": 3
+    },
+    {
+      "albumId": 36,
+      "imageUrl": "https://loremflickr.com/150/150/abstract?lock=20810",
+      "id": 4
+    },
+    {
+      "albumId": 36,
+      "imageUrl": "https://loremflickr.com/150/150/abstract?lock=68118",
+      "id": 5
+    },
+    {
+      "albumId": 36,
+      "imageUrl": "https://loremflickr.com/150/150/abstract?lock=81532",
+      "id": 12
+    },
+    {
+      "albumId": 36,
+      "imageUrl": "https://loremflickr.com/150/150/abstract?lock=77665",
+      "id": 13
+    },
+    {
+      "albumId": 36,
+      "imageUrl": "https://loremflickr.com/150/150/abstract?lock=73831",
+      "id": 14
+    },
+    {
+      "albumId": 36,
+      "imageUrl": "https://loremflickr.com/150/150/abstract?lock=32968",
+      "id": 20
+    },
+    {
+      "albumId": 36,
+      "imageUrl": "https://loremflickr.com/150/150/abstract?lock=15679",
+      "id": 21
+    },
+    {
+      "albumId": 36,
+      "imageUrl": "https://loremflickr.com/150/150/abstract?lock=74653",
+      "id": 22
+    },
+    {
+      "albumId": 43,
+      "imageUrl": "https://loremflickr.com/150/150/abstract?lock=62817",
+      "id": 23
+    },
+    {
+      "albumId": 43,
+      "imageUrl": "https://loremflickr.com/150/150/abstract?lock=4924",
+      "id": 24
+    },
+    {
+      "albumId": 43,
+      "imageUrl": "https://loremflickr.com/150/150/abstract?lock=61428",
+      "id": 36
+    },
+    {
+      "albumId": 43,
+      "imageUrl": "https://loremflickr.com/150/150/abstract?lock=86691",
+      "id": 38
+    },
+    {
+      "albumId": 43,
+      "imageUrl": "https://loremflickr.com/150/150/abstract?lock=23014",
+      "id": 46
+    },
+    {
+      "albumId": 43,
+      "imageUrl": "https://loremflickr.com/150/150/abstract?lock=48309",
+      "id": 47
+    },
+    {
+      "albumId": 43,
+      "imageUrl": "https://loremflickr.com/150/150/abstract?lock=97591",
+      "id": 48
+    }
+  ]
+}

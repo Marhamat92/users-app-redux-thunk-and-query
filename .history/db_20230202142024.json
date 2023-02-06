@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Adam Wilderman",
+      "id": 3
+    },
+    {
+      "name": "Dr. Jerome Swaniawski",
+      "id": 6
+    },
+    {
+      "name": "Gwendolyn Hand",
+      "id": 10
+    },
+    {
+      "name": "Fernando Lehner",
+      "id": 12
+    }
+  ],
+  "albums": [
+    {
+      "id":10,
+      "title":"voluptatem et itaque vero tempora molestiae",
+      "userId":3
+    }
+  ],
+  "photos": []
+}
